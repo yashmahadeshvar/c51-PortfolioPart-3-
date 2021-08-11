@@ -1,0 +1,39 @@
+h1{
+    color:rgb(255, 255, 255);
+}
+p{
+    color:rgb(0, 255, 242);
+    text-align : center;
+}
+h2{
+    text-align : center;
+    color:#ffffff;
+}
+/* *{
+    border:solid;
+}
+*/
+.header{
+    background-color:cadetblue;
+    display:flex;
+    justify-content : space-between;
+}
+.site-description{
+    background-color:#000000;
+}
+
+.grid{
+    display:flex;
+    flex-wrap : wrap;
+    justify-content : space-evenly; 
+    background-color:#000000
+}
+.footer{
+    display:flex;
+    justify-content : flex-end;
+    background-color:#000000;
+}
+
+body{
+    background-color:#808080;
+}
